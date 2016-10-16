@@ -30,7 +30,8 @@ body {
   text-align: center;
   background-color: #713837;
   color: #fff;
-  font-family: 'Bevan', cursive;
+  font-family: 'Bevan', sans-serif;
+  font-weight: normal;
 }
 h1 {
   font-family: 'Bevan', cursive;
@@ -46,4 +47,8 @@ a {
 .cards a:hover {
   background-color: #f33;
   color: #fff;
+  padding: .6em 0.5em 0.75em;
+  margin: 0.3;
+  max-width: 20em;
+  border-radius: 10px
 }
