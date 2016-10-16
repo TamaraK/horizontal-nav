@@ -43,7 +43,8 @@ ul {
   text-align: center;
   background-color: #713837;
   color: #fff;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Bevan", sans-serif;
+  font-family: sans-serif;
   font-weight: lighter;
 }
 
@@ -68,4 +69,8 @@ a {
   margin: 0.3em;
   max-width: 20em;
   border-radius: 4px;
+}
+
+header {
+  padding: .75em 0 0 0;
 }
