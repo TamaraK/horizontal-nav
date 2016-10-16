@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #fff;
+  background-color: #dbd6cf;
   line-height: 1.5;
 
 }
@@ -11,7 +11,8 @@ head {
   background-color: #595652;
 }
 body {
-  background-color: #797956f;
+  background-color: #595652;
+  color: #dbd6cf;
 }
 .cards {
   margin: 0;
@@ -25,7 +26,24 @@ body {
   margin: 0.3;
   max-width: 20em;
   padding: .6em 0.5em 0.75em;
-  border-radius: 7px;
+  border-radius: 10px;
   text-align: center;
   background-color: #713837;
+  color: #fff;
+  font-family: 'Bevan', cursive;
+}
+h1 {
+  font-family: 'Bevan', cursive;
+  color: #fff;
+  text-align: center;
+  background-color: #595652;
+
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.cards a:hover {
+  background-color: #f33;
+  color: #fff;
 }
