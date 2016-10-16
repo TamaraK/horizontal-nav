@@ -22,8 +22,12 @@ body {
   margin: 0;
 }
 
+ul {
+  margin: 0 0 0.5em 0
+}
+
 .cards {
-  margin: 0 0.6em 0.5 0.75;
+  margin: 0 0.6em 0.5em 0.75em;
   padding: 0.3em;
   list-style-type: none;
   text-align: center;
