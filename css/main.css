@@ -49,7 +49,7 @@ ul {
 }
 
 h1 {
-  font-family: "Bevan", sans-serif;
+  font-family: "Bevan", serif;
   color: #fff;
   text-align: center;
   background-color: #79756f;
@@ -69,6 +69,10 @@ a {
   margin: 0.3em;
   max-width: 20em;
   border-radius: 4px;
+}
+
+.cards a {
+  padding: .6em 0.5em 0.75em;
 }
 
 header {
